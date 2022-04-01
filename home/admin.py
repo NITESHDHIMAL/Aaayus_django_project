@@ -7,6 +7,10 @@ from .models import *
 admin.site.register(Contact)
 admin.site.register(Feedback)
 admin.site.register(Information)
+admin.site.register(Filter_category)
+admin.site.register(Content)
+admin.site.register(Blog)
+admin.site.register(Categories)
 
 
 
